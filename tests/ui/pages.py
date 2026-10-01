@@ -63,7 +63,8 @@ class YouGilePage:
             EC.element_to_be_clickable(
                 (
                     By.XPATH,
-                    "//div[@role='button' and .//div[normalize-space()='Войти']]"
+                    "//div[@role='button' and"
+                    ".//div[normalize-space()='Войти']]"
                 )
             )
         )
