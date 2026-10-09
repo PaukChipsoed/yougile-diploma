@@ -149,3 +149,8 @@ allure serve allure-results
 * Секретные данные не хранятся в репозитории.
 * В проекте используются явные ожидания Selenium.
 * Код оформлен с учётом требований PEP 8.
+
+## Документация проекта
+
+- **Тест-план и итоговые материалы:** [Yonote](https://drawen.yonote.ru/share/feec228a-7fb2-41e8-bb73-a06611434dcd) (https://drawen.yonote.ru/share/19955cf1-147d-434d-a755-cf7010af0243)
+- **Исходный код и автотесты:** https://github.com/PaukChipsoed/yougile-diploma
