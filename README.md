@@ -152,5 +152,5 @@ allure serve allure-results
 
 ## Документация проекта
 
-- **Тест-план и итоговые материалы:** [Yonote](https://drawen.yonote.ru/share/feec228a-7fb2-41e8-bb73-a06611434dcd) (https://drawen.yonote.ru/share/19955cf1-147d-434d-a755-cf7010af0243)
+- **Тест-план и итоговые материалы:** [Yonote (Отчет о тестировании) ](https://drawen.yonote.ru/share/feec228a-7fb2-41e8-bb73-a06611434dcd)  [Yonote (Тест план) ](https://drawen.yonote.ru/share/19955cf1-147d-434d-a755-cf7010af0243)
 - **Исходный код и автотесты:** https://github.com/PaukChipsoed/yougile-diploma
